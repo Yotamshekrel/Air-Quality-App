@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9777c604-59d7-41e5-b01a-80303106d280" name="Changes" comment="Mark1">
-      <change beforePath="$PROJECT_DIR$/.idea/Roman-chrome.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AQA.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9777c604-59d7-41e5-b01a-80303106d280" name="Changes" comment="Mark1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +13,9 @@
         <option value="JavaScript File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Rebase.Settings">
+    <option name="NEW_BASE" value="master" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -68,7 +67,7 @@
       <workItem from="1692106699748" duration="2237000" />
       <workItem from="1692189647213" duration="21986000" />
       <workItem from="1692710888791" duration="9959000" />
-      <workItem from="1694612870531" duration="2402000" />
+      <workItem from="1694612870531" duration="2753000" />
     </task>
     <task id="LOCAL‎-00001" summary="Mark1">
       <created>1694616031572</created>
@@ -77,7 +76,14 @@
       <option name="project" value="LOCAL‎" />
       <updated>1694616031572</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL‎-00002" summary="Mark1">
+      <created>1694616246180</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL‎-00002" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1694616246180</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -88,7 +94,13 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
