@@ -1,0 +1,13 @@
+{
+    "name": "Air Quality Index",
+    "version": "1.0.0",
+    "description": "Give you the Air Quality Index (AQI) in your area",
+    "manifest_version": 3,
+    "author": "Yotam Shekrel",
+    "permissions": ["geolocation"],
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Air Quality Index",
+        "default_icon": "icon_op2.png"
+    }
+}
